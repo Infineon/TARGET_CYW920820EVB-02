@@ -18,7 +18,7 @@ The Infineon CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop 
 
 ### Additional Information
 
-Infineon also offers a purpose-built Bluetooth&#174; mesh kit that comes with four boards and several on-board sensors to implement more complete mesh application without any external hardware. To learn more about Infineon Bluetooth&#174; mesh evaluation kit, visit [CYBT-213043-MESH](http://www.cypress.com/CYBT-213043-MESH).
+Infineon also offers a purpose-built Bluetooth&#174; mesh kit that comes with four boards and several on-board sensors to implement more complete mesh application without any external hardware. To learn more about Infineon Bluetooth&#174; mesh evaluation kit, visit [CYBT-213043-MESH](https://www.infineon.com/cms/en/product/evaluation-boards/cybt-213043-mesh/).
 
 The CYW20820 device and the CYW920820EVB-02 evaluation kit are supported in ModusToolbox&#8482; 1.1 (or later). To learn more about ModusToolbox&#8482; and download the latest version, please visit the ModusToolbox&#8482; webpage.
 
@@ -26,5 +26,4 @@ Max UART baud rate is 3M.
 
 External 32 kHz LPO is used by default. To operate without external LPO, set USE\_32K\_EXTERNAL\_LPO=0 on the make command line or edit the default value in CYW920820EVB-02.mk.
 
-For more information, see [CYW920820EVB-02](http://www.cypress.com/CYW920820EVB-02)
-
+For more information, see [CYW920820EVB-02]( https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/)
