@@ -116,6 +116,9 @@ CY_CORE_CGSLIST=\
     $(CY_INTERNAL_BASELIB_PATH)/internal/20820A1/patches/patch.cgs\
     $(CY_INTERNAL_BASELIB_PATH)/platforms/CYW208XXA1.cgs
 
+ifeq (,$(findstring wiced_rf_lib.a, $(CY_20820A1_APP_PATCH_LIBS)))
+CY_CORE_CGSLIST += $(CY_INTERNAL_BASELIB_PATH)/libraries/prebuilt/rf.cgs
+endif
 #
 # read in BTP file as single source of flash layout information
 #
