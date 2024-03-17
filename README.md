@@ -2,9 +2,9 @@
 
 ### Overview
 
-The Infineon CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20820, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth&#174; LE/BR/EDR. The CYW20820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market. CYW20820 supports Bluetooth&#174; SIG-certified Mesh v1.0. CYW20820EVB-02 can also be used to develop LE Mesh applications on CYW20820 device using ModusToolbox&#8482;.
+The Infineon CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20820, an ultra-low-power dual-mode Bluetooth&#174; 5.4 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth&#174; LE/BR/EDR. The CYW20820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market. CYW20820 supports Bluetooth&#174; SIG-certified Mesh v1.0. CYW20820EVB-02 can also be used to develop LE Mesh applications on CYW20820 device using ModusToolbox&#8482;.
 
-* 62-FBGA CYW20820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)
+* 62-FBGA CYW20820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant wireless MCU with internal Power Amplifier (iPA)
 * Arduino compatible headers for hardware expansion
 * On-board sensors - a 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a thermistor
 * User switch and LEDs
